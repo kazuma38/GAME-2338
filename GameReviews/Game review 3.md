@@ -3,6 +3,8 @@
 # Details
 
 * Game Title: Metal Gear Solid 5
+* Type : action steath
+* platforms : PC, PS4
 
 
 # Summary
