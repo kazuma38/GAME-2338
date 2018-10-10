@@ -5,7 +5,7 @@
 * Test Case ID:
   * #01
 * Test Case Name:
-  * # only works in story mode.
+  * no multiplayer saves
 * Component: 
   * Save game
 * Test Case Designer:
@@ -39,7 +39,7 @@
 | --- | --- | --- | --- |
 | 1 | 10/9/18 | marquis salinas | pass |			
 | 2 |10/12/18 | KILLGORE | Pass |			
-| 3 | | | |			
+			
 
 
 # Test Case 2
@@ -49,7 +49,7 @@
 * Test Case ID:
   * #03
 * Test Case Name:
-  * # save test Rquirement
+  * save overide test
 * Component: 
   * save game
 * Test Case Designer:
