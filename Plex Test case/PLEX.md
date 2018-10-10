@@ -3,21 +3,25 @@
 ## Test Details
 
 * Test Case ID:
-  * #Number
+  * #01
 * Test Case Name:
-  * #Number
+  * # save game req.
 * Component: 
-  * Description
+  * Save game
 * Test Case Designer:
-  * Name
+  * George Daly
 * Creation Date:
-  * Date
+  * 10/9/2018
 * Modified By:
-  * Name
+  * KILLGORE
 * Modified Date:
-  * Date
+  * 10/12/2018
 * Requirements Covered:
-  * Description
+  * Only works in story mode
+  * The file name for the game must be valid so it can be read back in at a later time.
+  * If the file already exists, the file will be written over
+  * If the file doesn’t exist it must be created.
+  * The file must be saved in a particular format and include all the game data that needs to be read back in at a later time so the game can continue.
 * Test Description/Purpose:
   * Description
 * Pre-Test Conditions:
