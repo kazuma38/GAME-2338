@@ -42,37 +42,37 @@
 | 3 | | | |			
 
 
-# Test Case lkkajsdflkajsdf
+# Test Case 2
 
 ## Test Details
 
 * Test Case ID:
-  * #Number
+  * #03
 * Test Case Name:
-  * #Number
+  * # save test Rquirement
 * Component: 
-  * Description
+  * save game
 * Test Case Designer:
-  * Name
+  * George Daly
 * Creation Date:
-  * Date
+  * 10/9/2018
 * Modified By:
-  * Name
+  * George Daly
 * Modified Date:
-  * Date
+  * 10/9/2018
 * Requirements Covered:
-  * Description
+  *  If the file already exists, the file will be written over.
 * Test Description/Purpose:
-  * Description
+  * avoiding conflict with more than one save files
 * Pre-Test Conditions:
-  * Description
+  * pre-existing save
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
-| 3 | | | |			
-| 4 | | | |			
+| 1 |start story mode | story started|x |			
+| 2 |open menu |menu is opened |x |			
+| 3 |navigate to save game | navigated to save game |x |			
+| 4 |save game | old save file is overwritten with new one |x |			
 | 5 | | | |			
 | 6 | | | |			
 | 7 | | | |			
@@ -81,18 +81,18 @@
 | 10 | | | |			
 
 ## Overall Test Status:
-
+the game saved
 
 
 ## Run History:
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
-| 1 | | | |			
+| 1 |10/9/2018 |George Daly |good |			
 | 2 | | | |			
 | 3 | | | |			
 
 
-# Test Case 
+# Test Case 3
 
 ## Test Details
 
