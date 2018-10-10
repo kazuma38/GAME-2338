@@ -73,12 +73,7 @@
 | 2 |open menu |menu is opened |x |			
 | 3 |navigate to save game | navigated to save game |x |			
 | 4 |save game | old save file is overwritten with new one |x |			
-| 5 | | | |			
-| 6 | | | |			
-| 7 | | | |			
-| 8 | | | |			
-| 9 | | | |			
-| 10 | | | |			
+
 
 ## Overall Test Status:
 the game saved
@@ -88,8 +83,7 @@ the game saved
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
 | 1 |10/9/2018 |George Daly |good |			
-| 2 | | | |			
-| 3 | | | |			
+
 
 
 # Test Case 3
@@ -97,38 +91,31 @@ the game saved
 ## Test Details
 
 * Test Case ID:
-  * #Number
+  * #04
 * Test Case Name:
-  * #Number
+  * new save file creation
 * Component: 
-  * Description
+  * Save Game
 * Test Case Designer:
-  * Name
+  * Marquis, Salinas
 * Creation Date:
-  * Date
+  * 10/9/18
 * Modified By:
-  * Name
+  * Marquis Salinas
 * Modified Date:
-  * Date
+  * 10/9/18
 * Requirements Covered:
-  * Description
+  * if the file doesn't exist it must be created
 * Test Description/Purpose:
-  * Description
+  * if new save data can be created with no existing data
 * Pre-Test Conditions:
-  * Description
+  * no pre existing save data
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
-| 3 | | | |			
-| 4 | | | |			
-| 5 | | | |			
-| 6 | | | |			
-| 7 | | | |			
-| 8 | | | |			
-| 9 | | | |			
-| 10 | | | |			
+| 1 | start story mode | story mode works | X |			
+| 2 | start new game | promted to create new save data | X |			
+| 3 | Create new save data once prompted | new save file will be created | X |			
 
 ## Overall Test Status:
 
@@ -137,8 +124,7 @@ the game saved
 ## Run History:
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
-| 3 | | | |			
+| 1 | 10/9/18 |marquis salinas | Pass |			
+	
 
 
