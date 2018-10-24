@@ -1,11 +1,11 @@
-# title
+# Pathfinder: Kingmaker
 
-* Developer :  
+* Developer : Owlcat Games
 
-* Publisher :  
+* Publisher : Deep Silver
 
-* Platforms :  
+* Platforms : PC 
 
-* Game type : 
+* Game type : CRPG, DnD
 
 ## Review
