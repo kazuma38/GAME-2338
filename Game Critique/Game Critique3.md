@@ -1,11 +1,12 @@
-# 
+# assasins creed Odyssey
 
-* Developer : 
+* Developer : Ubisoft
 
-* Publisher : 
+* Publisher : Ubisoft
 
-* Platforms : 
+* Platforms : PC, Xbox one, PS4
 
-* Game type : 
+* Game type : action adventure RPG
 
 ## Review
+
